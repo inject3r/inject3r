@@ -1,10 +1,6 @@
 <h1 align="center">____ INJECT3R ____</h1>
 <br/><br/>
 
----
-
-## 🛠️ Tech Stack
-
 ```txt
 Frontend:     JavaScript, TypeScript, React, CSS, HTML,
               Next.js, Tailwind CSS, SASS
