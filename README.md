@@ -5,7 +5,7 @@
 Frontend:     JavaScript, TypeScript, React, CSS, HTML,
               Next.js, Tailwind CSS, SASS
 
-Backend:      PHP, Node.js, C++, Pawn, Express.js, SQL,
+Backend:      Python, Node.js, C++, Go, PHP, Pawn, Express.js, SQL,
               MySQL, PostgreSQL, MongoDB, GraphQL
 
 APIs & Services:
