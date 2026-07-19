@@ -1,7 +1,5 @@
 <h1 align="center">ــــ INJECT3R ــــ</h1>
 
-<p align="center">Full-Stack Developer</p>
-
 <br/>
 
 <table>
